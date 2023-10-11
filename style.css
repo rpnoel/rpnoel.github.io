@@ -3,14 +3,14 @@
 	    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     h1 {
-        color: darkgreen;
+        color: white;
         text-align: center;
     }
 
 .assign {
 	margin: 10px;
 	padding: 10px;
-	background-color: red;
+	background-color: darkgreen;
 	display: flex;
 	}
 .assign img {
