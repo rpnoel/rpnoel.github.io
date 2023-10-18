@@ -8,13 +8,14 @@
     }
 
 .assign {
-	margin: 10px;
-	padding: 10px;
-	background-color: red;
 	display: flex;
+	padding: 10px;
+	margin: 10px;
+	background-color: red;
 	}
 .assign img {
 	width: 200px;
 	padding: 10px;
 }
+
 
