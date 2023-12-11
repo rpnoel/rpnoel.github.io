@@ -26,12 +26,12 @@ body {
 	box-shadow: 8 px 8 px darkgray; 
 	}
 	.assign img {
-	width: 200 px;
+	width: 100 px;
 	padding: 10 px;
  	border: 2 px solid lawngreen; 
 	}
 	.assign img:hover {
-	width: 200 px;
+	width: 100 px;
 	margin: 10 px;
 	border: 2 px dotted greenyellow;
 	}
